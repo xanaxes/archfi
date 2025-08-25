@@ -7,7 +7,48 @@
 # archfi -cpl url_of_the_file
 
 # Some packages :
+sudo
 neofetch
 nmon
 lshw
-# base-devel
+yay
+base-devel
+base 
+linux 
+linux-firmware 
+grub 
+networkmanager 
+bluez
+firefox
+sddm
+xorg-server
+bspwm
+xfce
+samba
+picom-ftlabs-git
+git
+ttf-font-awesome
+ffmpeg
+vlc
+pipewire
+pipwire-pulse
+pipewire-jack
+pamixer
+nodejs
+npm
+base-devel
+zip
+unzip
+tree
+trash-cli
+neovim
+zsh-autosuggestions
+zsh-completions	
+zsh-syntax-highlighting	
+zsh-autocomplete	
+python-click-completion	
+htop
+openssh
+curl
+wget
+rsync
